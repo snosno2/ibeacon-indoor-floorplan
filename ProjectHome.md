@@ -1,0 +1,1 @@
+To develop an application of smartphone to build floor plan including location information of installed iBeacons. The locations of other iBeacons can be shown and provided with the knowledge of location of one iBeacon. User can acquire the floor plan of the building and locate the position in the building with indoor localization using iBeacons.
